@@ -1,6 +1,10 @@
 # Energy Consumption Forecasting App
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png) 
+![image](https://github.com/user-attachments/assets/189a4427-9746-45c4-8f37-223f60146106)
+![image](https://github.com/user-attachments/assets/f4b2beba-cfd9-41a5-9d47-4055c758213f)
+![image](https://github.com/user-attachments/assets/76045890-efd5-4033-8d08-1a8d2648bff5)
+![image](https://github.com/user-attachments/assets/6bcf9461-cc82-443d-911f-ec497dc90d23)
 
 A Streamlit-based web application that predicts future energy consumption using LSTM neural networks, with features designed specifically for Bengali-speaking users.
 ## **Problem Statement**
@@ -92,11 +96,8 @@ scikit-learn
 pandas
 numpy
 matplotlib
-## Output
-![image](https://github.com/user-attachments/assets/189a4427-9746-45c4-8f37-223f60146106)
-![image](https://github.com/user-attachments/assets/f4b2beba-cfd9-41a5-9d47-4055c758213f)
-![image](https://github.com/user-attachments/assets/76045890-efd5-4033-8d08-1a8d2648bff5)
-![image](https://github.com/user-attachments/assets/6bcf9461-cc82-443d-911f-ec497dc90d23)
+
+
 
 
 
